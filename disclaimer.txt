@@ -1,0 +1,2 @@
+Please note: This tutorial on creating a steganography application using Python and Tkinter is for educational purposes only. Use this tool responsibly and ethically. 
+  We do not support or condone any illegal activities. Make sure you comply with applicable laws and respect others.
